@@ -1,2 +1,2 @@
-# vuejs2-starter (UNDER DVELOPMENT)
+# vuejs2-starter (UNDER DEVELOPMENT)
 VueJs Starter app
